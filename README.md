@@ -108,7 +108,7 @@ SOFTWARE.<br>
 </a>
 </h3>
  If you would like to train this Kidney-Tumor Segmentation model by yourself,
- please download our blood-cell dataset from the google drive 
+ please download our Kidney-Tumor dataset from the google drive 
 <a href="https://drive.google.com/file/d/1NhT0j9UF64hZA02vt6BGSDLvSJCJTBmD/view?usp=sharing">
 Kidney-Tumor-ImageMask-Dataset.zip</a>, 
  expand the downloaded dataset and put it under <b>./dataset</b> folder to be
